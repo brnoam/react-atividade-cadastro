@@ -1,0 +1,122 @@
+body{
+    background-color:rgb(117, 100, 230);
+}
+
+.principal {
+    background-color:whitesmoke;
+    width: 50% ;
+    height:100%;
+    bottom: 0px;
+    position: fixed;
+    
+}
+
+.form{
+     
+     margin-right: 35%;
+     margin-top: 35%;
+     
+}
+
+
+.nome {
+    padding: 15px;
+    margin-top: 2px;
+    width: 110%;
+    margin-left: 20%;
+}
+
+
+
+.sobrenome{
+
+    padding: 15px;
+    margin-top: 2px;
+    width: 110%;
+    margin-left: 20%;
+
+}
+
+
+
+.email{
+    padding: 15px;
+    margin-top: 2px;
+    width: 110%;
+    margin-left: 20%;
+}
+
+
+
+
+.senha{
+    padding: 15px;
+    margin-top: 2px;
+    width: 110%;
+    margin-left: 20%;
+}
+
+
+.botao{
+    font-size: 1em;
+    margin-top: 20px;
+    width: 116%;
+    margin-left: 20%;
+    padding: 13px;
+    background-color: rgb(231, 231, 231);
+    border: rgb(209, 209, 209);
+    
+}
+
+
+
+.titulo{
+    margin-right: 14%;
+}
+
+.titulo h1 {
+
+    margin-right: 29%;
+    margin-bottom: -2%;
+}
+
+
+
+
+.logo{
+    width: 20%;
+    margin-left: 50%;
+    margin-top: 14%;
+}
+
+
+.legenda {
+    margin-left: 50%;
+    color: white;
+    font-size: 500%;
+
+}
+
+
+
+@media  (max-width:1440px){
+    .titulo{ 
+       
+        margin-left: 15%;
+        
+
+        
+    }
+}
+
+
+
+@media  (max-width:1440px){
+    .titulo h1{ 
+       
+        margin-right: 48%;
+        
+
+        
+    }
+}
